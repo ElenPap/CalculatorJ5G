@@ -13,7 +13,7 @@ public class calculate extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_calculate);
-
+        // just a test
         Button addButton = (Button) findViewById(R.id.addButton);
         Button substrButton = (Button) findViewById(R.id.substrButton);
         Button multButton = (Button) findViewById(R.id.multButton);
@@ -79,5 +79,6 @@ public class calculate extends AppCompatActivity {
                 resultTextView.setText(result + "");
             }
         });
+
     }
 }
