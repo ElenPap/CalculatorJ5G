@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">CalculatorJ5G</string>
+    <string name="divButton">/</string>
+    <string name="mulButton">x</string>
+    <string name="substrButton">-</string>
+    <string name="result">result</string>
+    <string name="addButton">+</string>
+    <string name="enter_a_number">Enter a number</string>
+    <string name="enter_a_number2">Enter a number</string>
 </resources>
